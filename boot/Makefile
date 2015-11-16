@@ -1,4 +1,4 @@
-.PHONY: all clean
+.PHONY: all clean boot.bin
 
 all: boot.bin
 
